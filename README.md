@@ -74,7 +74,7 @@
 - Revenue: ₹4,38,000 | Top Category: Clothing (63%)
 - Insights on regional marketing & inventory planning
 
-[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56/Madhav-Sales-Dashboard)
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/danish5sharmawork-code/-Madhav-Sales-Dashboard)
 
 ---
 
