@@ -51,7 +51,7 @@
 - Answered 8 business questions: revenue by category, out-of-stock analysis, discount patterns
 - Documented full data cleaning story in README
 
-[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56/zepto-sql-inventory-analysis)
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/danish5sharmawork-code/Zepto-Inventory-Analysis)
 
 ---
 
