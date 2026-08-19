@@ -63,7 +63,7 @@
 - Identified peak hours (9–11 AM) driving highest orders
 - Total Sales: $6,98,812 | Footfall: 1,49,116
 
-[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56/Coffee-Shop-Sales-Excel-Dashboard)
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/danish5sharmawork-code/Coffee-Shop-Sales-Dashboard)
 
 ---
 
